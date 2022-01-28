@@ -1,0 +1,16 @@
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\bin\Debug\net5.0\challenge-ch16.exe
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\bin\Debug\net5.0\challenge-ch16.deps.json
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\bin\Debug\net5.0\challenge-ch16.runtimeconfig.json
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\bin\Debug\net5.0\challenge-ch16.runtimeconfig.dev.json
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\bin\Debug\net5.0\challenge-ch16.dll
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\bin\Debug\net5.0\ref\challenge-ch16.dll
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\bin\Debug\net5.0\challenge-ch16.pdb
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\challenge-ch16.csproj.AssemblyReference.cache
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\challenge-ch16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\challenge-ch16.AssemblyInfoInputs.cache
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\challenge-ch16.AssemblyInfo.cs
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\challenge-ch16.csproj.CoreCompileInputs.cache
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\challenge-ch16.dll
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\ref\challenge-ch16.dll
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\challenge-ch16.pdb
+C:\Users\jonah\workspace\Back-End-Folder\challenge-ch16\obj\Debug\net5.0\challenge-ch16.genruntimeconfig.cache
